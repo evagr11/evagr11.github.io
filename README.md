@@ -23,11 +23,12 @@
 
 ✨ **Características principales:**
 
-*   👋 **Presentación directa:** Titular, una frase sobre cómo trabajo (*diseño en Figma, pienso la arquitectura, construyo*) y acceso al CV completo desde la cabecera.
+*   ✍️ **Misma identidad que el Curriculum:** Paleta crema y ciruela, mi nombre como una firma a mano (*Herr Von Muellerhoff*), titulares en *Cormorant Garamond* y detalles en *JetBrains Mono*.
+*   👋 **Presentación directa:** Titular, una tarjeta tipo editor de código con cómo trabajo (*diseño en Figma, pienso la arquitectura, construyo*) y acceso al CV completo desde la cabecera.
 *   🗂️ **6 proyectos destacados:** iMirly, Sama Vintage, Real-Time Tactics, TPV Barra, Multi-Move y App Tickets, cada uno con su imagen, tecnologías y enlace a su ficha en el portfolio.
 *   🧰 **Con qué trabajo:** Kotlin/Android, Java, Spring Boot, SQL, Unity, Figma, Git y APIs REST.
 *   📬 **Contacto:** Correo, LinkedIn, GitHub, itch.io y descarga del CV en PDF.
-*   📱 **Responsive:** Menú lateral en móvil y cuadrícula de proyectos que pasa de 3 a 2 y a 1 columna.
+*   📱 **Responsive:** Menú lateral ciruela en móvil y cuadrícula de proyectos que pasa de 3 a 2 y a 1 columna.
 *   ⚡ **Ligera:** Imágenes en WebP con carga diferida y etiquetas Open Graph para que el enlace se vea bien al compartirlo.
 
 ### Galería
@@ -38,7 +39,7 @@
 
 # 🧠 Contexto del Proyecto
 
-Tengo dos webs con objetivos distintos: esta, para una primera impresión rápida, y el [Curriculum](https://github.com/evagr11/Curriculum), donde está todo con detalle. Así quien solo quiere hacerse una idea no se pierde, y quien quiere profundizar tiene dónde hacerlo. Se publica directamente con **GitHub Pages** desde la rama `main`, en la dirección de mi usuario.
+Tengo dos webs con objetivos distintos: esta, para una primera impresión rápida, y el [Curriculum](https://github.com/evagr11/Curriculum), donde está todo con detalle. Así quien solo quiere hacerse una idea no se pierde, y quien quiere profundizar tiene dónde hacerlo. Se publica directamente con **GitHub Pages** desde la rama `main`, en la dirección de mi usuario. En noviembre de 2026 rediseñé las dos webs a la vez para que compartan la misma identidad en crema y ciruela.
 
 # 🛠️ Stack Tecnológico
 
@@ -57,7 +58,7 @@ Tengo dos webs con objetivos distintos: esta, para una primera impresión rápid
 | Área | Tecnología |
 | :--- | :--------- |
 | **Frontend** | `HTML5`, `CSS3` (variables, Grid), `JavaScript` (Vanilla) |
-| **Iconos y fuentes** | `Font Awesome`, `Poppins` y `JetBrains Mono` |
+| **Iconos y fuentes** | `Font Awesome`, `Herr Von Muellerhoff`, `Cormorant Garamond`, `JetBrains Mono` y `DM Sans` |
 | **Despliegue** | `GitHub Pages` |
 
 </div>
@@ -68,7 +69,7 @@ Tengo dos webs con objetivos distintos: esta, para una primera impresión rápid
 evagr11.github.io/
 ├── index.html            # Toda la página
 ├── css/
-│   └── estilos.css       # Variables de color al principio, luego cada sección
+│   └── estilos.css       # Paleta y fuentes en variables al principio, luego cada sección
 ├── js/
 │   └── menu.js           # Menú lateral en móvil
 ├── assets/
