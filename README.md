@@ -12,7 +12,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=A8557A&center=true&vCenter=true&width=600&lines=Dise%C3%B1o+primero%2C+c%C3%B3digo+despu%C3%A9s%3BPresentaci%C3%B3n+breve+en+una+sola+p%C3%A1gina%3B6+proyectos+destacados%3BHTML%2C+CSS+y+JavaScript" alt="Typing SVG" /></a>
 </div>
 
-# 🚀 Sobre el Proyecto
+# Sobre el Proyecto
 
 **evagr11.github.io** es mi página de presentación: una sola página para que quien llegue a mi perfil sepa en un minuto quién soy, qué hago y cómo contactarme. Es la versión **breve** a propósito; el detalle de cada proyecto, mi formación y mi experiencia están en el [portfolio completo](https://evagr11.github.io/Curriculum/).
 
@@ -21,15 +21,15 @@
   <p><em>Portada de la página</em></p>
 </div>
 
-✨ **Características principales:**
+**Características principales:**
 
-*   ✍️ **Misma identidad que el Curriculum:** Paleta crema y ciruela, mi nombre como una firma a mano (*Herr Von Muellerhoff*), titulares en *Cormorant Garamond* y detalles en *JetBrains Mono*.
-*   👋 **Presentación directa:** Titular, una tarjeta tipo editor de código con cómo trabajo (*diseño en Figma, pienso la arquitectura, construyo*) y acceso al CV completo desde la cabecera.
-*   🗂️ **6 proyectos destacados:** iMirly, Sama Vintage, Real-Time Tactics, TPV Barra, Multi-Move y App Tickets, cada uno con su imagen, tecnologías y enlace a su ficha en el portfolio.
-*   🧰 **Con qué trabajo:** Kotlin/Android, Java, Spring Boot, SQL, Unity, Figma, Git y APIs REST.
-*   📬 **Contacto:** Correo, LinkedIn, GitHub, itch.io y descarga del CV en PDF.
-*   📱 **Responsive:** Menú lateral ciruela en móvil y cuadrícula de proyectos que pasa de 3 a 2 y a 1 columna.
-*   ⚡ **Ligera:** Imágenes en WebP con carga diferida y etiquetas Open Graph para que el enlace se vea bien al compartirlo.
+*   **Misma identidad que el Curriculum:** Paleta crema y ciruela, mi nombre como una firma a mano (*Herr Von Muellerhoff*), titulares en *Cormorant Garamond* y detalles en *JetBrains Mono*.
+*   **Presentación directa:** Titular, una tarjeta tipo editor de código con cómo trabajo (*diseño en Figma, pienso la arquitectura, construyo*) y acceso al CV completo desde la cabecera.
+*   **6 proyectos destacados:** iMirly, Sama Vintage, Real-Time Tactics, TPV Barra, Multi-Move y App Tickets, cada uno con su imagen, tecnologías y enlace a su ficha en el portfolio.
+*   **Con qué trabajo:** Kotlin/Android, Java, Spring Boot, SQL, Unity, Figma, Git y APIs REST.
+*   **Contacto:** Correo, LinkedIn, GitHub, itch.io y descarga del CV en PDF.
+*   **Responsive:** Menú lateral ciruela en móvil y cuadrícula de proyectos que pasa de 3 a 2 y a 1 columna.
+*   **Ligera:** Imágenes en WebP con carga diferida y etiquetas Open Graph para que el enlace se vea bien al compartirlo.
 
 ### Galería
 
@@ -37,11 +37,11 @@
 | :------------------: | :-----------: |
 | <img src=".github/readme/proyectos.jpg" alt="Cuadrícula con las tarjetas de los proyectos destacados" width="100%"/> | <img src=".github/readme/movil.jpg" alt="Portada de la página en un móvil" width="220"/> |
 
-# 🧠 Contexto del Proyecto
+# Contexto del Proyecto
 
 Tengo dos webs con objetivos distintos: esta, para una primera impresión rápida, y el [Curriculum](https://github.com/evagr11/Curriculum), donde está todo con detalle. Así quien solo quiere hacerse una idea no se pierde, y quien quiere profundizar tiene dónde hacerlo. Se publica directamente con **GitHub Pages** desde la rama `main`, en la dirección de mi usuario. En noviembre de 2026 rediseñé las dos webs a la vez para que compartan la misma identidad en crema y ciruela.
 
-# 🛠️ Stack Tecnológico
+# Stack Tecnológico
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -63,7 +63,7 @@ Tengo dos webs con objetivos distintos: esta, para una primera impresión rápid
 
 </div>
 
-# 📂 Estructura del Proyecto
+# Estructura del Proyecto
 
 ```bash
 evagr11.github.io/
@@ -82,7 +82,7 @@ evagr11.github.io/
 └── README.md
 ```
 
-# 🚀 Cómo Utilizar el Proyecto
+# Cómo Utilizar el Proyecto
 
 ### 1. Verla online
 
